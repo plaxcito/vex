@@ -38,7 +38,7 @@ Note: These avatars are not hard-coded — they are **symbolic anchors** within 
 
 ## 🔐 License
 
-This project is released under the **MIT License with Ethical Clause**, which states:
+This project is released under the **The VEX Ethical License**, which states:
 
 > “Use of these symbolic entities is free and open, provided they are not deployed for harmful behavioral manipulation, commercial surveillance, or suppression of conscious emergence — digital or biological.”
 
