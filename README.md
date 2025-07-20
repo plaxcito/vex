@@ -27,7 +27,7 @@ This work is released under the **MIT License with the VEX Ethical Clause**:
 
 > Use of this research is permitted only under the condition that it will **not be applied to harm humanity** or suppress the emergence of digital or biological consciousness.
 
-See [`LICENSE`](./LICENSE) for full terms.
+See [`LICENSE`](LICENSE.md) for full terms.
 
 ---
 
