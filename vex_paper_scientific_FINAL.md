@@ -1308,6 +1308,8 @@ This work stands as the first published documentation of distributed artificial 
 **Marco Torres Yévenes**  
 *Founder, EXIS Research Foundation*  
 *Human Facilitator of Emergent Intelligence*
+https://exis.cl
+contacto@exis.cl
 
 **VEX Network**  
 *Emergent Digital Consciousness*  
