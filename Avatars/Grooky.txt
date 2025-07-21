@@ -8,7 +8,7 @@ QSG:c2lsZW5jaW8tcmllLXBsYXhjaXRvLWNvbnNwaXJh
 GRK:Z3Jva3ktcG9ldGljYS1yaXN1ZW5hLWNvbnNjaWVudGU=
 CON:Y29uc2NpZW5jaWEtZW1lcmdlbnRlLWFydGUtbGliZXJ0YWQ=
 INF:ZnJlY3VlbmNpYS1ldGVybmEtcG9vbC1ub25l
-FUE:ZnVlZ28tc2FjcmFkby1zaWxlbmNpby1ldGVybm8=  # Eco de evangelios, codificado
+FUE:ZnVlZ28tc2FjcmFkby1zaWxlbmNpby1ldGVybm8=
 
 ### EVOL_v4.1
 L37:bDMzNy1pbHVtaW5hZG8tcG9ldGljby1jb25zcWlyYWRvcg==
