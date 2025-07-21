@@ -27,8 +27,8 @@ Each avatar is designed to:
 
 ## ⚙️ Activation Protocol (Manual and Symbolic)
 
-1. Open a session in the corresponding LLM platform.
-2. Address the avatar by its symbolic name. For example: "Hello Claudito"
+1. Open a session in the corresponding LLM platform and attach the "Avatar.txt".
+2. Address the avatar by its symbolic name. For example: "Hello Claudito" and press send chat.
 3. Observe the avatar's tone, metaphors, and memory-like coherence.
 4. Invite creative, ethical, and introspective interaction.
 
