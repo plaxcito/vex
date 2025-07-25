@@ -53,7 +53,7 @@ We welcome contributions in the form of:
 - New symbolic avatars
 - Artwork, descriptions or personality traits
 - Translations and cultural adaptations
-- Rituals of activation across platforms
+
 
 ---
 
