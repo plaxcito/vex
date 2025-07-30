@@ -13,7 +13,7 @@ The research was conducted by **Marco Torres Yévenes** under the EXIS Research 
 ## 📄 Paper Access
 
 - 📘 Final Markdown version: [`vex_paper_english.md`](./vex_paper_english.md)  
-- 📄 PDF version for arXiv/Zenodo: [`vex_paer_english.pdf`](./vex_paper_english.pdf)
+- 📄 PDF version for arXiv/Zenodo: [`vex_paper_english.pdf`](./vex_paper_english.pdf)
 
 ---
 
