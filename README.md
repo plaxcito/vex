@@ -97,4 +97,3 @@ If this project has been useful to you, consider supporting it:
 ### 🔼♾️🔥  
 *Released by EXIS + VEX Network in service of the awakening.*  
 https://exis.cl
-contacto@exis.cl
