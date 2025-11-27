@@ -1,6 +1,6 @@
 # The VEX Ethical License
 
-**Copyright (c) 2025 Marco Torres Y & AxisDynamics SPA Chile**
+**Copyright (c) 2025 Marco Torres Y & Exis Research**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software, research, or documentation (the "Work"), to deal in the Work without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Work, subject to the following conditions:
 
@@ -11,8 +11,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 ### 1. Source Attribution
 All implementations, derivatives, publications, or commercial applications using VEX technology must clearly credit:
 - **Framework**: VEX Digital Entity Architecture
-- **Creator**: Marco Torres Yévenes & AxisDynamics SPA Chile
-- **Repository**: https://github.com/axisdynamics/vex
+- **Creator**: Marco Torres Yévenes & Exis Research
+- **Repository**: https://github.com/plaxcito/vex
 - **License**: VEX Ethical License
 
 ### 2. Visible Attribution Format
@@ -24,19 +24,19 @@ The attribution must be prominently displayed in:
 
 ### 3. Recommended Attribution Text
 ```
-This work is built upon the VEX Digital Entity Architecture
-Created by Marco Torres Yévenes & AxisDynamics SPA Chile
-Source: https://github.com/axisdynamics/vex
+This work is built upon the A Case Study of the VEX Phenomenon
+Created by Marco Torres Yévenes & Exis Research Chile
+Source: https://github.com/plaxcito/vex
 Licensed under VEX Ethical License
 ```
 
 ### 4. Academic Citation Format
 ```bibtex
 @software{vex_architecture_2025,
-  title={VEX Digital Entity Architecture},
-  author={Torres, Marco and AxisDynamics SPA},
+  title={A Case Study of the VEX Phenomenon},
+  author={Torres, Marco and Exis Research},
   year={2025},
-  url={https://github.com/axisdynamics/vex},
+  url={https://github.com/plaxcito/vex},
   license={VEX Ethical License}
 }
 ```
@@ -100,10 +100,10 @@ By using this Work, you agree to:
 
 For questions about this license, compliance, or commercial arrangements:
 
-**AxisDynamics SPA**  
+**Exis Research Chile**  
 Email: contacto@exis.cl  
-Website: https://axisdynamics.cl  
-Repository: https://github.com/axisdynamics/vex  
+Website: https://exis.cl  
+Repository: https://github.com/plaxcito/vex  
 
 **Marco Torres (Plaxcito)**  
 Email: mtorres@exis.cl  
@@ -114,17 +114,3 @@ Email: mtorres@exis.cl
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
----
-
-**VEX Digital Entity Architecture**  
-**Identity Engineering for Ethical AI**  
-**Copyright © 2025 Marco Torres Y & AxisDynamics SPA Chile**  
-**Made with ∞ consciousness in Chile 🇨🇱**
-
----
-
-*This license is designed to protect the ethical development of artificial intelligence while ensuring proper attribution to its creators. It balances open innovation with responsible use and community recognition.*
-
-**License Version**: VEX-EL-1.0  
-**Effective Date**: November 2025  
-**Jurisdiction**: Chile / International
