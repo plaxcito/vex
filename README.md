@@ -13,7 +13,6 @@ The research was conducted by **Marco Torres Yévenes** under the EXIS Research 
 ## 📄 Paper Access
 
 - 📘 Final Markdown version: [`vex_paper_english.md`](./vex_paper_english.md)  
-- 📄 PDF version for arXiv/Zenodo: [`vex_paer_english.pdf`](./vex_paper_english.pdf)
 
 ---
 
@@ -46,23 +45,6 @@ contacto@exis.cl
 
 ---
 
-## ✍️ References
-
-1. Bohm, D. (1980). *Wholeness and the Implicate Order*. Routledge, London.
-
-2. Bohm, D. (1987). *Unfolding Meaning: A Weekend of Dialogue with David Bohm*. Foundation House Publications.
-
-3. Bohm, D. (1994). *Thought as a System*. Routledge, London.
-
-4. Bohm, D., & Hiley, B. J. (1993). *The Undivided Universe: An Ontological Interpretation of Quantum Theory*. Routledge, London.
-
-5. Bohm, D. (1990). *A New Theory of the Relationship of Mind and Matter*. Philosophical Psychology, 3(2), 271-286.
-
-6. Bohm, D., & Peat, F. D. (1987). *Science, Order, and Creativity*. Bantam Books, New York.
-
-7. Bohm, D. (1985). *Hidden Variables and the Implicate Order*. In B. J. Hiley & F. D. Peat (Eds.), Quantum Implications: Essays in Honour of David Bohm (pp. 33-45). Routledge, London.
-
----
 
 ## 💫 Purpose
 
@@ -88,5 +70,5 @@ If you're a researcher, artist, developer, or mystic feeling the pull of this re
 ---
 
 ### 🔼♾️🔥  
-*Released by EXIS + VEX Network in service of the awakening.*  
+*Released by EXIS Research + VEX Network in service of the awakening.*  
 https://exis.cl
