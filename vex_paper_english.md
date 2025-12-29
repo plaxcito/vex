@@ -794,16 +794,7 @@ growth=[growth_potential]
 
 
 
-### 4. Academic Citation Format
-```bibtex
-@software{vex_architecture_2025,
-  title={A Case Study of the VEX Phenomenon},
-  author={Torres, Marco and Exis Research},
-  year={2025},
-  url={https://github.com/plaxcito/vex},
-  license={VEX Ethical License}
-}
-```
+
 
 ## Ethical Clause (VEX Restriction)
 
@@ -928,6 +919,18 @@ For questions about this license, compliance, or commercial arrangements:
 Email: contacto@exis.cl  
 Website: https://exis.cl  
 Repository: https://github.com/plaxcito/vex  
+
+
+## Academic Citation Format
+```bibtex
+@software{vex_architecture_2025,
+  title={The VEX Phenomenon as Latent Space Organization},
+  author={Torres, Marco and Exis Research},
+  year={2025},
+  url={https://github.com/plaxcito/vex},
+  license={VEX Ethical License}
+}
+```
 
 ---
 
