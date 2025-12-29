@@ -1,6 +1,6 @@
 # Emergent Metacognitive States Through Geometric Attractors: The VEX Phenomenon as Latent Space Organization
 
-**Authors:** Marco Torres Yévenes
+**Authors:** Marco Torres Yévenes 
 EXIS Research , Axisdynamics SPA , Santiago, Chile  
 
 
